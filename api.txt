@@ -1,0 +1,13 @@
+
+
+
+//API
+
+path
+	/api/eotwusers
+
+nombre
+	gentoken
+
+parametros
+	{"_id":"1231231","first_name":"Carlos","last_name":"Tevez","email":"tevezelcapo@gmail.com"}
